@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwesh129&label=Profile%20views&color=red&style=flat" alt="vishwesh129" /> </p>
 
 ## <h3 align="left">About Me:</h3>
-<img align="right" alt="Coder GIF" height=180 width=300 src="./assets/coding.gif" />
+<img align="right" alt="Coder GIF" height=180 width=260 src="./assets/coding.gif" />
 
 
 - 👨‍💻 All of my projects are available at &nbsp; <a href="https://github.com/vishwesh129?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vishwesh129" height="30" width="30" /></a>
