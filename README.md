@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Vishwesh Goud Nakkala</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer+from+India&color=F77F18&center=true&width=500&height=40"/>
@@ -8,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwesh129&label=Profile%20views&color=red&style=for-the-badge" alt="vishwesh129" /> </p>
 
 ## About Me:
-<img align="right" alt="Coder GIF" height=180 width=260 src="./assets/coding.gif" />
+<img align="right" alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/08149640c0762f4fe83af0e15378d5bc.gif" />
 
 
 - 👨‍💻 All of my projects are available at &nbsp; <a href="https://vishwesh129.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logo=Github&logoColor=white" alt="vishwesh129" /></a>
