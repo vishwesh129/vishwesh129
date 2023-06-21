@@ -9,7 +9,7 @@
 <img align="right" alt="Coder GIF" height=180 width=260 src="./assets/coding.gif" />
 
 
-- 👨‍💻 All of my projects are available at &nbsp; <a href="https://github.com/vishwesh129?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vishwesh129" height="30" width="30" /></a>
+- 👨‍💻 All of my projects are available at &nbsp; <a href="https://vishwesh129.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logo=Github&logoColor=white" alt="vishwesh129" /></a>
 
 - 💬 Ask me about **Web Development**
 
