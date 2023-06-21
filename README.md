@@ -91,7 +91,7 @@
   <br />
   <summary align="left"><h3>Github Stats:</h3></summary>
   <p align="center">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=vishwesh129&show_icons=true&locale=en&theme=radical"  alt="vishwesh129" />
-  <img  height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwesh129&theme=radical" alt="vishwesh129" />
+    <img height="200px" width="48%" src="https://github-readme-stats.vercel.app/api?username=vishwesh129&show_icons=true&locale=en&theme=radical"  alt="vishwesh129" />
+  <img  height="200px" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwesh129&theme=radical" alt="vishwesh129" />
   </p>
 </details>
