@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishwesh Goud Nakkala</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Vishwesh Goud Nakkala</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p>Aspiring Full-Stack web developer with proficiency in creating user-friendly websites. Having a keen interest in the MERN stack. Looking forward to developing products that help improve people’s lives and become an integral part of the growth-oriented organization.</p>
