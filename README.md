@@ -5,8 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwesh129&label=Profile%20views&color=0e75b6&style=flat" alt="vishwesh129" /> </p>
 
+<<<<<<< HEAD
 ## <h3 align="left">About Me:</h3>
 <img align="right" alt="Coder GIF" height=250 width=350 src="./assets/coding.gif" />
+=======
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+## <h3 align="left">About Me:</h3>
+>>>>>>> 48a876d3633e4c18797605246dabaf7032447516
 
 - 👨‍💻 All of my projects are available at &nbsp; <a href="https://github.com/vishwesh129?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vishwesh129" height="30" width="30" /></a>
 
@@ -27,4 +32,12 @@
 
 <details>
   <br />
+<<<<<<< HEAD
   <summary align="left"><h3>Github Stats:</h3></summary>
+=======
+  <summary align="left"><h3>Github Stats:</h3></summary>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwesh129&show_icons=true&locale=en" alt="vishwesh129" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwesh129&" alt="vishwesh129" /></p>
+</details>
+>>>>>>> 48a876d3633e4c18797605246dabaf7032447516
