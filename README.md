@@ -91,9 +91,9 @@
   <br />
   <summary align="left"><h3>Github Stats:</h3></summary>
   <p align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vishwesh129&show_icons=true&locale=en&theme=radical"  alt="vishwesh129" />
+    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=vishwesh129&show_icons=true&locale=en&theme=radical"  alt="vishwesh129" />
   </p>
   <p align="center">
-    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwesh129&theme=radical" alt="vishwesh129" />
+    <img  width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwesh129&theme=radical" alt="vishwesh129" />
   </p>
 </details>
