@@ -79,7 +79,7 @@
   &nbsp;
 </p>
 
-## <h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/vishwesh129/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="vishwesh129" /></a>
 <a href="https://instagram.com/vishwesshhh_/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="vishwesh129" /></a>
