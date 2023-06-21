@@ -3,10 +3,10 @@
 
 <p>Aspiring Full-Stack web developer with proficiency in creating user-friendly websites. Having a keen interest in the MERN stack. Looking forward to developing products that help improve people’s lives and become an integral part of the growth-oriented organization.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwesh129&label=Profile%20views&color=0e75b6&style=flat" alt="vishwesh129" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwesh129&label=Profile%20views&color=red&style=flat" alt="vishwesh129" /> </p>
 
 ## <h3 align="left">About Me:</h3>
-<img align="right" alt="Coder GIF" height=300 width=350 src="./assets/coding.gif" />
+<img align="right" alt="Coder GIF" height=180 width=250 src="./assets/coding.gif" />
 
 
 - 👨‍💻 All of my projects are available at &nbsp; <a href="https://github.com/vishwesh129?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vishwesh129" height="30" width="30" /></a>
