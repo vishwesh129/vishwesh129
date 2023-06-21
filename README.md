@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Vishwesh Goud Nakkala</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer+from+India;&center=true&width=500&height=40"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer+from+India&color=F77F18&center=true&width=500&height=40"/>
 </p>
 
 <p>Aspiring Full-Stack web developer with proficiency in creating user-friendly websites. Having a keen interest in the MERN stack. Looking forward to developing products that help improve people’s lives and become an integral part of the growth-oriented organization.</p>
