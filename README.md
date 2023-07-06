@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nakkalavishwesh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17TO2us1YS7Al3ogfhMSKOFZQ-BuFRC8T/view?usp=sharing](https://drive.google.com/file/d/17TO2us1YS7Al3ogfhMSKOFZQ-BuFRC8T/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1h0fVOstKvB8C9rBfUMBW2c-K3ujfeYX6/view?usp=sharing](https://drive.google.com/file/d/1h0fVOstKvB8C9rBfUMBW2c-K3ujfeYX6/view?usp=sharing)
 
 ## Languages and Tools:
 <p align="left"> 
