@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nakkalavishwesh@gmail.com**
 
-- 📄 Know about my experiences &nbsp; <a href="https://drive.google.com/file/d/1h0fVOstKvB8C9rBfUMBW2c-K3ujfeYX6/view?usp=sharing" target="blank"><img align="center" src="https://img.shields.io/badge/-Resume-orange?style=for-the-badge&logo=resume&logoColor=white" alt="vishwesh129" /></a>
+- 📄 Know about my experiences &nbsp; <a href="https://drive.google.com/file/d/1V6YjI9ekR3lIPcNDnVtJZhJCa14Nfmer/view?usp=sharing" target="blank"><img align="center" src="https://drive.google.com/file/d/1V6YjI9ekR3lIPcNDnVtJZhJCa14Nfmer/view?usp=sharing" alt="vishwesh129" /></a>
 
 ## Languages and Tools:
 <p align="left"> 
